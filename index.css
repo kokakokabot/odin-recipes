@@ -1,0 +1,20 @@
+* {
+    background-color: #EEEEEE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #222831;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+a {
+    color: #222831;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
